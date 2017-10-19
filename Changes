@@ -1,9 +1,4 @@
-Changes for Perl Module WWW::Pusher
+Changes for Perl Module WWW::Pusher::PushNotifications
 
-0.0701
- - JT Smith takes over maintenance.
-
-0.0700
- - Releasing module to CPAN so that its easy to install for everybody.
-
-
+0.01
+ - Initial version.
