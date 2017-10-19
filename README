@@ -1,0 +1,40 @@
+
+WWW::Pusher::PushNotifications
+
+WWW::Pusher::PushNotifications provides a Perl Interface to https://pusher.com
+Push Notifications API.
+
+Based on WWW::Pusher module.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc WWW::Pusher::PushNotifications
+
+You can also look for information at:
+
+    https://github.com/SebasDesimone/WWW-Pusher-PushNotifications
+
+
+LICENSE AND COPYRIGHT
+
+This software is copyright (c) 2017 by Sebastian Desimone.
+
+This program is free software; you can redistribute it and/or modify it
+under the terms of either: the GNU General Public License as published
+by the Free Software Foundation; or the Artistic License.
+
+See http://dev.perl.org/licenses/ for more information.
+
+See details on LICENSE file.
